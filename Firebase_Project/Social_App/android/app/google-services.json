@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711137343532",
+    "project_id": "udemy-flutter-1-99807",
+    "storage_bucket": "udemy-flutter-1-99807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711137343532:android:68aada79503e4583fd7989",
+        "android_client_info": {
+          "package_name": "com.helal.ramadan.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711137343532-77jqp20dntrifad05ujkrml30b0as9fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helal.ramadan.social",
+            "certificate_hash": "08fad623994acd22fa90b83a1d183f824c1a7b0c"
+          }
+        },
+        {
+          "client_id": "711137343532-63l91l0ls8fdnomqi1j165ueeud9iu95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKu4PmhFmrnSMtq7MBHQFY9m7cdAhCcDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711137343532-63l91l0ls8fdnomqi1j165ueeud9iu95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
